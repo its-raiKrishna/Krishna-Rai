@@ -1,0 +1,20 @@
+.home-page {
+    background : lightblue;
+    text-align : center;
+}
+.home-page h1{
+    color : blue;
+    font-family :Verdana, Geneva, Tahoma, sans-serif
+}
+.about-page {
+    background : coral;
+    text-align : center;
+}
+.service-page{
+    background : yellow;    
+    text-align : center;
+}
+.contact-page {
+    background-color: blueviolet;
+    text-align : center;
+}
